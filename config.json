@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": true,
+      "texture": false,
       "skin": true,
       "more": false,
       
@@ -55,28 +55,12 @@
   ],
   "Texture": [
     {
-        "name": "EVO Shader Mod V1.2.1",
-        "role": "EVO Shader will bring your MCPE to �realistic looking� with realistic lighting, it�s had many improvements in graphic, also have directional lighting from sun,semi-3D Cloud without lag and many more, I hope you all enjoyed it",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/limabelas_desc.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/EVOShaderModV1.2_REV33.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/limabelas_desc.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/enambelas_desc.png"
-    },
-    {
-        "name": "ChunkBounds Shaders",
-        "role": "Simple resource-pack, which shows you the boundaries of all chunks. Every Chunk is 16 blocks in the x and the z Direction. Useful on some Servers where you have to claim chunks to build on This pack shows the bounds of every chunk in your world. The chunks are outlined by red markers, so they are very easy to spot, and especially so when it�s nighttime. Finding the exact positioning of chunks in Minecraft: Bedrock Edition can be quite tricky, but with this pack it�s so much easier. It works for both Android, iOS and Windows 10.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/tujuhbelas_desc.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/ChunksBoundsShaders v.1.0.3.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/delapanbelas_desc.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/sembilan.png"
-    },
-    {
-        "name": "Simple Shader (Previously SSPEShader)",
-        "role": "Simple Shader is a lightweight shader pack which is the perfect solution for anyone who have got a low-end device and haven�t been able to use any of the other shader packs. It�s a much more simple pack which still got some of the essential features (such as more realistic skies) to make Minecraft much more beautiful and faithfully realistic.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/sepuluh.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/SimpleShader.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/sembilanbelas_desc.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/duapuluh_desc.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Skins": [
